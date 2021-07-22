@@ -1,0 +1,2 @@
+# Algorithms
+Mostly simple coding exercises from the data structures and algorithms section of Springboard bootcamp.  I also included the frontend coding challenge, which was a basic Javascript app meant to simulate a take home coding challenge in a job interview setting.
