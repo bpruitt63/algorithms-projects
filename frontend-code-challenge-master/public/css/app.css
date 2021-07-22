@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    background-color: darkblue;
+    padding: 20px 0px 25px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: lightgray;
+}
+
+.row {
+    margin-top: 25px;
+}
+
+form {
+    text-align: center;
+}
+
+.linkButton, .formSubmit {
+    width: 170px;
+    margin: 25px 30px 0px;
+    padding: 8px 0px;
+}
+
+.navs {
+    text-align: center;
+}
+
+ul {
+    margin-top: 15px;
+}
+
+li {
+    text-align: center;
+}
+
+#loading {
+    text-align: center;
+    font-size: 1.5em;
+}
